@@ -1,0 +1,14 @@
+.aboutTop{
+    
+    height:80vh;
+    background-size: cover;
+}
+.aboutBottom h1{
+    text-align: center;
+    font-size: 50px;
+
+}
+.aboutBottom p{
+    margin:0 30px;
+    text-align: center;
+}
